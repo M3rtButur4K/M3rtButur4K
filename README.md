@@ -1,6 +1,5 @@
 - Hi, I’m @M3rtButur4K
-- I’m interested in Game Making
-- I’m currently learning Games Programming
+- local Unity GameDev with a diploma in Games Programming
 - How to reach me: Discord: @M3rtButur4K#3774 ; Twitter: @M3rtButur4K_YT
 
 <!---
